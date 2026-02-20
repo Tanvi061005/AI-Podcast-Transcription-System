@@ -1,0 +1,17 @@
+# Ignore models
+vosk-model-small-en-us-0.15/
+whisper/
+models/
+
+# Ignore audio files
+audio/
+*.wav
+*.mp3
+# Ignore outputs
+output/
+*.json
+*.txt
+
+# Python cache
+__pycache__/
+*.pyc
