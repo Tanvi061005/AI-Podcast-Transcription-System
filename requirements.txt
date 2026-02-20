@@ -1,7 +1,0 @@
-streamlit
-openai-whisper
-pyannote.audio
-torch
-numpy
-scikit-learn
-nltk
